@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(11, 153, 106);
+    color: rgb(255, 255, 255);
+}
+hr{
+    border-color: black;
+    border-width: 4px;
+    -webkit-border-radius:3px;
+       -moz-border-radius:3px;
+            border-radius:3px;
+}
+img{
+    margin: auto;
+    display: block;
+}
